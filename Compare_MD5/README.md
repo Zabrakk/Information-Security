@@ -1,0 +1,1 @@
+For Educational Purposes Only. This programs only purpose is to demonstrate that md5 is not a safe way to decrypt anything.
